@@ -1,0 +1,171 @@
+.header {
+    font-size: 45px;
+    margin-left: 5%;
+    margin-top: 3%;
+    width: 1000px;
+}
+
+.main {
+    background-color: #f0fff0;
+    background-size: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-ttl {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 5%;
+    padding: 20px 0px 10px 0px;
+}
+
+.main-adress {
+    font-size: 15px;
+    padding: 10px 3px;
+    color: darkgray;
+    border: solid 2px darkgray;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0px auto;
+    margin-top: 3%;
+    display: block;
+}
+
+.main-pass {
+    font-size: 15px;
+    padding: 10px 3px;
+    color: darkgray;
+    border: solid 2px darkgray;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0px auto;
+    margin-top: 3%;
+    display: block;
+}
+
+.main-buttn {
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 0px;
+    color: white;
+    background-color: blue;
+    border: solid 2px blue;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0px auto;
+    margin-top: 3%;
+    display: block;
+}
+
+.main-make {
+    font-size: 13px;
+    text-align: center;
+    margin: 0px auto;
+    padding: 20px 0px;
+    color: darkgray;
+}
+
+.main-make-buttn {
+    font-size: 13px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px auto;
+    color: blue;
+    padding: 5px 0px 150px 0px;
+    display: block;
+}
+
+.footer {
+    font-size: 11px;
+    width: 1000px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.account {
+    background-color: #f0fff0;
+    background-size: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.account-ttl {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 5%;
+    padding: 20px 0px 10px 0px;
+}
+
+.account-name {
+    font-size: 15px;
+    padding: 10px 3px;
+    color: darkgray;
+    border: solid 2px darkgray;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0px auto;
+    margin-top: 3%;
+}
+
+.account-adress {
+    font-size: 15px;
+    padding: 10px 3px;
+    color: darkgray;
+    border: solid 2px darkgray;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0px auto;
+    margin-top: 3%;
+}
+
+.account-pass {
+    font-size: 15px;
+    padding: 10px 3px;
+    color: darkgray;
+    border: solid 2px darkgray;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0px auto;
+    margin-top: 3%;
+}
+
+.account-pass-2 {
+    font-size: 15px;
+    padding: 10px 3px;
+    color: darkgray;
+    border: solid 2px darkgray;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0px auto;
+    margin-top: 3%;
+}
+
+.account-buttn {
+    font-size: 15px;
+    text-align: center;
+    padding: 10px 0px;
+    color: white;
+    background-color: blue;
+    border: solid 2px blue;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0px auto;
+    margin-top: 3%;
+}
+
+.account-already {
+    font-size: 13px;
+    text-align: center;
+    margin: 0px auto;
+    padding: 20px 0px;
+    color: darkgray;
+}
+
+.account-already-buttn {
+    font-size: 13px;
+    text-align: center;
+    margin: 0px auto;
+    color: blue;
+    padding: 5px 0px 150px 0px;
+}
